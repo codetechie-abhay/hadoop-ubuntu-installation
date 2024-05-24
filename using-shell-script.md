@@ -1,7 +1,3 @@
-Here's a `README.md` file for your repository that includes instructions for using the provided installation script, enhanced with emojis:
-
----
-
 # 📦 Hadoop Ubuntu Installation
 
 Welcome to the **Hadoop Ubuntu Installation** repository! 🚀 This guide provides an automated script to set up Hadoop 3.3.6 on Ubuntu 20.04 effortlessly. Follow the instructions below to get your distributed computing environment up and running smoothly. 🖥️✨
